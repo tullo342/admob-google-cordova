@@ -60,9 +60,9 @@ admob.AD_TYPE = {
 
 // This is not used by the plugin, it is just a helper to show how options are specified and their default values
 admob.options = {
-  publisherId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8440343014846849/3119840614" : "ca-app-pub-8440343014846849/2335511010",
-  interstitialId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8440343014846849/4596573817" : "ca-app-pub-8440343014846849/3812244218",
-  rewardedAdId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8440343014846849/4854611361" : "ca-app-pub-8440343014846849/6784794226",
+  publisherId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8963452457383556/6124143814" : "ca-app-pub-8963452457383556/7140522643",
+  interstitialId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8963452457383556/9887580264" : "ca-app-pub-8963452457383556/7485326940",
+  rewardedAdId: (/(android)/i.test(navigator.userAgent)) ? "ca-app-pub-8963452457383556/9439382924" : "ca-app-pub-8963452457383556/9077610213",
   adSize: admob.AD_SIZE.SMART_BANNER,
   bannerAtTop: false,
   overlap: false,
